@@ -1,0 +1,11 @@
+.content {
+  display: column;
+  text-align: center;
+  margin-top: 250px;
+  color: #1565c0;
+}
+.wrapp button {
+  align-items: center;
+  margin-top: 25px;
+  font-size: 22px;
+}

@@ -1,0 +1,35 @@
+.first_content h1 {
+  margin-top: 40px;
+  margin-bottom: 25px;
+  color: #1565c0;
+}
+.first_content p {
+  font-size: 17px;
+  line-height: 30px;
+}
+.first_content h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #1565c0;
+}
+.first_content ul {
+  margin-left: 15px;
+  margin-top: 10px;
+  font-size: 17px;
+  line-height: 30px;
+}
+
+.second_title h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px 20px 0px;
+  color: #1565c0;
+}
+
+.swiper img {
+  margin-left: 43px;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 30px;
+}

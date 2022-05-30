@@ -1,0 +1,56 @@
+.wrapp {
+  font-family: serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+  max-width: 1000px;
+}
+.contact {
+  color: #1565c0;
+  margin-bottom: 10px;
+}
+
+.number {
+  color: #1565c0;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+.mail {
+  color: #1565c0;
+  font-size: 20px;
+}
+.image img {
+  width: 120px;
+  height: 120px;
+  border-radius: 100px;
+}
+.text {
+  color: #1565c0;
+}
+.links a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  display: block;
+  padding-bottom: 6px;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  text-transform: uppercase;
+  color: #3a3a4d;
+  border-bottom: 2px rgba(0, 0, 0, 0) solid;
+}
+.linked a:hover {
+  color: #1565c0;
+}
+
+.butt {
+  margin-bottom: 80px;
+}

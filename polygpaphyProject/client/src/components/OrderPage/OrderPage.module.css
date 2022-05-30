@@ -1,0 +1,78 @@
+.input_column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input_column input {
+  width: 300px;
+}
+.TextField {
+  margin: 15px;
+}
+
+.top_text {
+  max-width: 80%;
+}
+.main_inputs {
+  text-align: center;
+}
+.title_form {
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  color: #1565c0;
+}
+.title {
+  margin-top: 40px;
+  margin-bottom: 17px;
+  color: #1565c0;
+}
+.bold {
+  font-weight: bold;
+}
+.main_text {
+  font-size: 18px;
+  line-height: 30px;
+}
+.input_file {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.input_file {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.btn {
+  border: 2px solid gray;
+  color: gray;
+  background-color: white;
+  padding: 8px 15px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.input_file input[type="file"] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+.custom_file_upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
